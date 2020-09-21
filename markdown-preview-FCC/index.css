@@ -1,0 +1,26 @@
+body{
+  color:balck;
+}
+h1{
+  text-align:center;
+color:black;
+font-weight: bolder;
+}
+.side{
+  color:black;
+}
+textarea{
+  width:100%;
+  height:80%;
+}
+.one{
+  background:#d5e1df;
+  padding:30px 30px 30px 30px;
+  margin-bottom:60px;
+}
+.two{
+background:#d5e1df;
+margin-top:60px;
+padding:30px 30px 0 30px;
+}
+
